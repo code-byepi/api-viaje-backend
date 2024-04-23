@@ -9,5 +9,3 @@ existentes y eliminar las entradas.
 - Eliminar viaje 
 
 
-Probando...
-Otra vez 
