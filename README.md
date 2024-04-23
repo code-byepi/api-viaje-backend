@@ -8,4 +8,6 @@ existentes y eliminar las entradas.
 - Modificar viaje
 - Eliminar viaje 
 
+### URL for published documentation
+- https://documenter.getpostman.com/view/34427189/2sA3BrWpD6
 
